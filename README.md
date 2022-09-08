@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kurniawan2805
+- 👋 Hi, I’m Adi Kurniawan
 - 👀 I’m interested in web development and data science
 - 🌱 I’m currently learning python and react js
 - 💞️ I’m looking to collaborate on 
